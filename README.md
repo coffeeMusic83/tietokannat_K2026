@@ -58,4 +58,5 @@ erDiagram
 
 
 
-<img width="1191" height="1008" alt="image" src="https://github.com/user-attachments/assets/00ab18c2-eeea-4177-96f4-fad4ed72ecf4" />
+<img width="1035" height="770" alt="image" src="https://github.com/user-attachments/assets/942d297e-c6e9-4d57-9a44-3495ce211c3d" />
+
